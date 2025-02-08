@@ -1,1 +1,1 @@
-# KETANASHAKA
+The current issue in farming begins with the usage of pesticides in agriculture which causes the farmers to have health issues due to the presence of chemicals, in addition with labour cost is more in this field of work. To reduce the risk of human illness and human labour, we are making this bot which minimalizes contact with pesticides, and it requires a single person to operate from a safe distance.
